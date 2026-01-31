@@ -30,7 +30,7 @@ algorithms sensitive to feature magnitude, such as distance-based or regularized
 and unit variance.
 
 PCA was conducted for the purpose of feature selection. After examining the explained variance ratio, the first five principal components were 
-chosen for further analysis. The optimal number of clusters was determined using the Elbow method. Because the plot did not exhibit e clear inflection point,
+chosen for further analysis. The optimal number of clusters was determined using the Elbow method. Because the plot did not exhibit a clear inflection point,
 silhouette analysis was also carried out, resulting in k=2 distinct clusters. 
 
 ## Clustering Methods
